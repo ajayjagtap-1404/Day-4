@@ -1,0 +1,9 @@
+alt + shift + hash
+Mentors CodInClub8:07 PM
+alt + shift + #
+Mentors CodInClub8:20 PM
+echo $(($RANDOM%900+100)) 100 - 999
+echo $(($RANDOM%900+100)) 10 - 99
+Mentors CodInClub8:23 PM
+echo $(($RANDOM%90+10)) 10 - 99
+echo $(($RANDOM%10)) 0 - 9
